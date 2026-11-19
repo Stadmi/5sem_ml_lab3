@@ -1,0 +1,501 @@
+model,shots,row_id,true,pred
+LogisticRegression,5,468,1,1
+LogisticRegression,5,349,0,0
+LogisticRegression,5,111,0,0
+LogisticRegression,5,125,0,0
+LogisticRegression,5,22,1,1
+LogisticRegression,5,568,0,0
+LogisticRegression,5,60,0,0
+LogisticRegression,5,123,0,0
+LogisticRegression,5,345,0,0
+LogisticRegression,5,296,0,0
+LogisticRegression,5,94,1,1
+LogisticRegression,5,487,1,1
+LogisticRegression,5,362,0,0
+LogisticRegression,5,20,0,0
+LogisticRegression,5,438,0,0
+LogisticRegression,5,459,0,0
+LogisticRegression,5,177,1,1
+LogisticRegression,5,269,0,1
+LogisticRegression,5,554,0,1
+LogisticRegression,5,420,0,1
+LogisticRegression,5,277,1,0
+LogisticRegression,5,464,0,0
+LogisticRegression,5,503,1,1
+LogisticRegression,5,34,1,1
+LogisticRegression,5,70,1,0
+LogisticRegression,5,511,0,0
+LogisticRegression,5,179,0,0
+LogisticRegression,5,533,1,0
+LogisticRegression,5,183,0,0
+LogisticRegression,5,99,1,1
+LogisticRegression,5,318,0,1
+LogisticRegression,5,169,0,0
+LogisticRegression,5,548,0,0
+LogisticRegression,5,294,0,0
+LogisticRegression,5,222,0,0
+LogisticRegression,5,154,0,1
+LogisticRegression,5,371,0,0
+LogisticRegression,5,64,1,1
+LogisticRegression,5,433,1,1
+LogisticRegression,5,329,1,1
+LogisticRegression,5,128,0,0
+LogisticRegression,5,162,1,1
+LogisticRegression,5,118,1,1
+LogisticRegression,5,275,0,0
+LogisticRegression,5,483,0,0
+LogisticRegression,5,83,1,1
+LogisticRegression,5,505,0,1
+LogisticRegression,5,325,0,0
+LogisticRegression,5,98,0,0
+LogisticRegression,5,86,1,1
+LogisticRegression,5,346,0,0
+LogisticRegression,5,383,0,1
+LogisticRegression,5,348,0,0
+LogisticRegression,5,120,0,1
+LogisticRegression,5,309,0,0
+LogisticRegression,5,314,0,0
+LogisticRegression,5,387,0,0
+LogisticRegression,5,393,1,1
+LogisticRegression,5,245,0,0
+LogisticRegression,5,196,1,1
+LogisticRegression,5,116,0,0
+LogisticRegression,5,456,0,1
+LogisticRegression,5,75,1,1
+LogisticRegression,5,71,0,0
+LogisticRegression,5,280,1,1
+LogisticRegression,5,250,1,1
+LogisticRegression,5,139,0,0
+LogisticRegression,5,522,0,0
+LogisticRegression,5,560,0,0
+LogisticRegression,5,130,0,0
+LogisticRegression,5,100,1,1
+LogisticRegression,5,205,1,1
+LogisticRegression,5,39,1,1
+LogisticRegression,5,7,1,1
+LogisticRegression,5,479,1,1
+LogisticRegression,5,221,0,0
+LogisticRegression,5,563,1,1
+LogisticRegression,5,440,0,1
+LogisticRegression,5,14,1,1
+LogisticRegression,5,451,1,1
+LogisticRegression,5,282,1,1
+LogisticRegression,5,218,1,1
+LogisticRegression,5,534,0,1
+LogisticRegression,5,321,1,0
+LogisticRegression,5,73,1,1
+LogisticRegression,5,448,0,1
+LogisticRegression,5,502,0,0
+LogisticRegression,5,188,0,0
+LogisticRegression,5,216,0,1
+LogisticRegression,5,556,0,0
+LogisticRegression,5,410,0,1
+LogisticRegression,5,208,0,1
+LogisticRegression,5,347,0,0
+LogisticRegression,5,447,0,0
+LogisticRegression,5,429,0,0
+LogisticRegression,5,385,1,0
+LogisticRegression,5,74,0,0
+LogisticRegression,5,418,0,0
+LogisticRegression,5,190,1,1
+LogisticRegression,5,308,0,0
+GaussianNB,5,468,1,0
+GaussianNB,5,349,0,0
+GaussianNB,5,111,0,0
+GaussianNB,5,125,0,0
+GaussianNB,5,22,1,0
+GaussianNB,5,568,0,0
+GaussianNB,5,60,0,0
+GaussianNB,5,123,0,0
+GaussianNB,5,345,0,0
+GaussianNB,5,296,0,0
+GaussianNB,5,94,1,0
+GaussianNB,5,487,1,0
+GaussianNB,5,362,0,0
+GaussianNB,5,20,0,0
+GaussianNB,5,438,0,0
+GaussianNB,5,459,0,0
+GaussianNB,5,177,1,0
+GaussianNB,5,269,0,0
+GaussianNB,5,554,0,0
+GaussianNB,5,420,0,0
+GaussianNB,5,277,1,0
+GaussianNB,5,464,0,0
+GaussianNB,5,503,1,0
+GaussianNB,5,34,1,0
+GaussianNB,5,70,1,0
+GaussianNB,5,511,0,0
+GaussianNB,5,179,0,0
+GaussianNB,5,533,1,0
+GaussianNB,5,183,0,0
+GaussianNB,5,99,1,0
+GaussianNB,5,318,0,0
+GaussianNB,5,169,0,0
+GaussianNB,5,548,0,0
+GaussianNB,5,294,0,0
+GaussianNB,5,222,0,0
+GaussianNB,5,154,0,0
+GaussianNB,5,371,0,0
+GaussianNB,5,64,1,0
+GaussianNB,5,433,1,1
+GaussianNB,5,329,1,0
+GaussianNB,5,128,0,0
+GaussianNB,5,162,1,0
+GaussianNB,5,118,1,1
+GaussianNB,5,275,0,0
+GaussianNB,5,483,0,0
+GaussianNB,5,83,1,0
+GaussianNB,5,505,0,0
+GaussianNB,5,325,0,0
+GaussianNB,5,98,0,0
+GaussianNB,5,86,1,0
+GaussianNB,5,346,0,0
+GaussianNB,5,383,0,0
+GaussianNB,5,348,0,0
+GaussianNB,5,120,0,0
+GaussianNB,5,309,0,0
+GaussianNB,5,314,0,0
+GaussianNB,5,387,0,0
+GaussianNB,5,393,1,1
+GaussianNB,5,245,0,0
+GaussianNB,5,196,1,1
+GaussianNB,5,116,0,0
+GaussianNB,5,456,0,0
+GaussianNB,5,75,1,0
+GaussianNB,5,71,0,0
+GaussianNB,5,280,1,0
+GaussianNB,5,250,1,0
+GaussianNB,5,139,0,0
+GaussianNB,5,522,0,0
+GaussianNB,5,560,0,0
+GaussianNB,5,130,0,0
+GaussianNB,5,100,1,0
+GaussianNB,5,205,1,0
+GaussianNB,5,39,1,0
+GaussianNB,5,7,1,0
+GaussianNB,5,479,1,0
+GaussianNB,5,221,0,0
+GaussianNB,5,563,1,0
+GaussianNB,5,440,0,0
+GaussianNB,5,14,1,1
+GaussianNB,5,451,1,0
+GaussianNB,5,282,1,0
+GaussianNB,5,218,1,0
+GaussianNB,5,534,0,0
+GaussianNB,5,321,1,0
+GaussianNB,5,73,1,0
+GaussianNB,5,448,0,0
+GaussianNB,5,502,0,0
+GaussianNB,5,188,0,0
+GaussianNB,5,216,0,0
+GaussianNB,5,556,0,0
+GaussianNB,5,410,0,0
+GaussianNB,5,208,0,1
+GaussianNB,5,347,0,0
+GaussianNB,5,447,0,0
+GaussianNB,5,429,0,0
+GaussianNB,5,385,1,0
+GaussianNB,5,74,0,0
+GaussianNB,5,418,0,0
+GaussianNB,5,190,1,1
+GaussianNB,5,308,0,0
+LogisticRegression,20,468,1,1
+LogisticRegression,20,349,0,0
+LogisticRegression,20,111,0,0
+LogisticRegression,20,125,0,0
+LogisticRegression,20,22,1,1
+LogisticRegression,20,568,0,0
+LogisticRegression,20,60,0,0
+LogisticRegression,20,123,0,0
+LogisticRegression,20,345,0,0
+LogisticRegression,20,296,0,0
+LogisticRegression,20,94,1,1
+LogisticRegression,20,487,1,1
+LogisticRegression,20,362,0,0
+LogisticRegression,20,20,0,0
+LogisticRegression,20,438,0,0
+LogisticRegression,20,459,0,0
+LogisticRegression,20,177,1,1
+LogisticRegression,20,269,0,0
+LogisticRegression,20,554,0,0
+LogisticRegression,20,420,0,0
+LogisticRegression,20,277,1,1
+LogisticRegression,20,464,0,0
+LogisticRegression,20,503,1,1
+LogisticRegression,20,34,1,1
+LogisticRegression,20,70,1,1
+LogisticRegression,20,511,0,0
+LogisticRegression,20,179,0,0
+LogisticRegression,20,533,1,1
+LogisticRegression,20,183,0,0
+LogisticRegression,20,99,1,1
+LogisticRegression,20,318,0,0
+LogisticRegression,20,169,0,0
+LogisticRegression,20,548,0,0
+LogisticRegression,20,294,0,0
+LogisticRegression,20,222,0,0
+LogisticRegression,20,154,0,0
+LogisticRegression,20,371,0,0
+LogisticRegression,20,64,1,1
+LogisticRegression,20,433,1,1
+LogisticRegression,20,329,1,1
+LogisticRegression,20,128,0,0
+LogisticRegression,20,162,1,1
+LogisticRegression,20,118,1,1
+LogisticRegression,20,275,0,0
+LogisticRegression,20,483,0,0
+LogisticRegression,20,83,1,1
+LogisticRegression,20,505,0,0
+LogisticRegression,20,325,0,0
+LogisticRegression,20,98,0,0
+LogisticRegression,20,86,1,1
+LogisticRegression,20,346,0,0
+LogisticRegression,20,383,0,0
+LogisticRegression,20,348,0,0
+LogisticRegression,20,120,0,0
+LogisticRegression,20,309,0,0
+LogisticRegression,20,314,0,0
+LogisticRegression,20,387,0,0
+LogisticRegression,20,393,1,1
+LogisticRegression,20,245,0,0
+LogisticRegression,20,196,1,1
+LogisticRegression,20,116,0,0
+LogisticRegression,20,456,0,1
+LogisticRegression,20,75,1,1
+LogisticRegression,20,71,0,0
+LogisticRegression,20,280,1,1
+LogisticRegression,20,250,1,1
+LogisticRegression,20,139,0,0
+LogisticRegression,20,522,0,0
+LogisticRegression,20,560,0,0
+LogisticRegression,20,130,0,0
+LogisticRegression,20,100,1,1
+LogisticRegression,20,205,1,1
+LogisticRegression,20,39,1,1
+LogisticRegression,20,7,1,1
+LogisticRegression,20,479,1,1
+LogisticRegression,20,221,0,0
+LogisticRegression,20,563,1,1
+LogisticRegression,20,440,0,0
+LogisticRegression,20,14,1,1
+LogisticRegression,20,451,1,1
+LogisticRegression,20,282,1,1
+LogisticRegression,20,218,1,1
+LogisticRegression,20,534,0,0
+LogisticRegression,20,321,1,1
+LogisticRegression,20,73,1,0
+LogisticRegression,20,448,0,0
+LogisticRegression,20,502,0,0
+LogisticRegression,20,188,0,0
+LogisticRegression,20,216,0,0
+LogisticRegression,20,556,0,0
+LogisticRegression,20,410,0,0
+LogisticRegression,20,208,0,1
+LogisticRegression,20,347,0,0
+LogisticRegression,20,447,0,0
+LogisticRegression,20,429,0,0
+LogisticRegression,20,385,1,1
+LogisticRegression,20,74,0,0
+LogisticRegression,20,418,0,0
+LogisticRegression,20,190,1,1
+LogisticRegression,20,308,0,0
+GaussianNB,20,468,1,1
+GaussianNB,20,349,0,0
+GaussianNB,20,111,0,0
+GaussianNB,20,125,0,0
+GaussianNB,20,22,1,1
+GaussianNB,20,568,0,0
+GaussianNB,20,60,0,0
+GaussianNB,20,123,0,0
+GaussianNB,20,345,0,0
+GaussianNB,20,296,0,0
+GaussianNB,20,94,1,1
+GaussianNB,20,487,1,1
+GaussianNB,20,362,0,0
+GaussianNB,20,20,0,0
+GaussianNB,20,438,0,0
+GaussianNB,20,459,0,0
+GaussianNB,20,177,1,1
+GaussianNB,20,269,0,0
+GaussianNB,20,554,0,0
+GaussianNB,20,420,0,0
+GaussianNB,20,277,1,1
+GaussianNB,20,464,0,0
+GaussianNB,20,503,1,1
+GaussianNB,20,34,1,1
+GaussianNB,20,70,1,1
+GaussianNB,20,511,0,0
+GaussianNB,20,179,0,0
+GaussianNB,20,533,1,1
+GaussianNB,20,183,0,0
+GaussianNB,20,99,1,0
+GaussianNB,20,318,0,1
+GaussianNB,20,169,0,0
+GaussianNB,20,548,0,0
+GaussianNB,20,294,0,0
+GaussianNB,20,222,0,0
+GaussianNB,20,154,0,0
+GaussianNB,20,371,0,0
+GaussianNB,20,64,1,1
+GaussianNB,20,433,1,1
+GaussianNB,20,329,1,1
+GaussianNB,20,128,0,0
+GaussianNB,20,162,1,1
+GaussianNB,20,118,1,1
+GaussianNB,20,275,0,0
+GaussianNB,20,483,0,0
+GaussianNB,20,83,1,1
+GaussianNB,20,505,0,0
+GaussianNB,20,325,0,0
+GaussianNB,20,98,0,0
+GaussianNB,20,86,1,0
+GaussianNB,20,346,0,0
+GaussianNB,20,383,0,0
+GaussianNB,20,348,0,0
+GaussianNB,20,120,0,0
+GaussianNB,20,309,0,0
+GaussianNB,20,314,0,0
+GaussianNB,20,387,0,0
+GaussianNB,20,393,1,1
+GaussianNB,20,245,0,0
+GaussianNB,20,196,1,1
+GaussianNB,20,116,0,0
+GaussianNB,20,456,0,0
+GaussianNB,20,75,1,1
+GaussianNB,20,71,0,0
+GaussianNB,20,280,1,1
+GaussianNB,20,250,1,1
+GaussianNB,20,139,0,0
+GaussianNB,20,522,0,0
+GaussianNB,20,560,0,0
+GaussianNB,20,130,0,0
+GaussianNB,20,100,1,0
+GaussianNB,20,205,1,0
+GaussianNB,20,39,1,0
+GaussianNB,20,7,1,1
+GaussianNB,20,479,1,1
+GaussianNB,20,221,0,0
+GaussianNB,20,563,1,1
+GaussianNB,20,440,0,0
+GaussianNB,20,14,1,1
+GaussianNB,20,451,1,1
+GaussianNB,20,282,1,1
+GaussianNB,20,218,1,1
+GaussianNB,20,534,0,0
+GaussianNB,20,321,1,1
+GaussianNB,20,73,1,0
+GaussianNB,20,448,0,0
+GaussianNB,20,502,0,0
+GaussianNB,20,188,0,0
+GaussianNB,20,216,0,0
+GaussianNB,20,556,0,0
+GaussianNB,20,410,0,0
+GaussianNB,20,208,0,0
+GaussianNB,20,347,0,0
+GaussianNB,20,447,0,0
+GaussianNB,20,429,0,0
+GaussianNB,20,385,1,0
+GaussianNB,20,74,0,0
+GaussianNB,20,418,0,0
+GaussianNB,20,190,1,1
+GaussianNB,20,308,0,0
+Always frequent class,20,468,1,0
+Always frequent class,20,349,0,0
+Always frequent class,20,111,0,0
+Always frequent class,20,125,0,0
+Always frequent class,20,22,1,0
+Always frequent class,20,568,0,0
+Always frequent class,20,60,0,0
+Always frequent class,20,123,0,0
+Always frequent class,20,345,0,0
+Always frequent class,20,296,0,0
+Always frequent class,20,94,1,0
+Always frequent class,20,487,1,0
+Always frequent class,20,362,0,0
+Always frequent class,20,20,0,0
+Always frequent class,20,438,0,0
+Always frequent class,20,459,0,0
+Always frequent class,20,177,1,0
+Always frequent class,20,269,0,0
+Always frequent class,20,554,0,0
+Always frequent class,20,420,0,0
+Always frequent class,20,277,1,0
+Always frequent class,20,464,0,0
+Always frequent class,20,503,1,0
+Always frequent class,20,34,1,0
+Always frequent class,20,70,1,0
+Always frequent class,20,511,0,0
+Always frequent class,20,179,0,0
+Always frequent class,20,533,1,0
+Always frequent class,20,183,0,0
+Always frequent class,20,99,1,0
+Always frequent class,20,318,0,0
+Always frequent class,20,169,0,0
+Always frequent class,20,548,0,0
+Always frequent class,20,294,0,0
+Always frequent class,20,222,0,0
+Always frequent class,20,154,0,0
+Always frequent class,20,371,0,0
+Always frequent class,20,64,1,0
+Always frequent class,20,433,1,0
+Always frequent class,20,329,1,0
+Always frequent class,20,128,0,0
+Always frequent class,20,162,1,0
+Always frequent class,20,118,1,0
+Always frequent class,20,275,0,0
+Always frequent class,20,483,0,0
+Always frequent class,20,83,1,0
+Always frequent class,20,505,0,0
+Always frequent class,20,325,0,0
+Always frequent class,20,98,0,0
+Always frequent class,20,86,1,0
+Always frequent class,20,346,0,0
+Always frequent class,20,383,0,0
+Always frequent class,20,348,0,0
+Always frequent class,20,120,0,0
+Always frequent class,20,309,0,0
+Always frequent class,20,314,0,0
+Always frequent class,20,387,0,0
+Always frequent class,20,393,1,0
+Always frequent class,20,245,0,0
+Always frequent class,20,196,1,0
+Always frequent class,20,116,0,0
+Always frequent class,20,456,0,0
+Always frequent class,20,75,1,0
+Always frequent class,20,71,0,0
+Always frequent class,20,280,1,0
+Always frequent class,20,250,1,0
+Always frequent class,20,139,0,0
+Always frequent class,20,522,0,0
+Always frequent class,20,560,0,0
+Always frequent class,20,130,0,0
+Always frequent class,20,100,1,0
+Always frequent class,20,205,1,0
+Always frequent class,20,39,1,0
+Always frequent class,20,7,1,0
+Always frequent class,20,479,1,0
+Always frequent class,20,221,0,0
+Always frequent class,20,563,1,0
+Always frequent class,20,440,0,0
+Always frequent class,20,14,1,0
+Always frequent class,20,451,1,0
+Always frequent class,20,282,1,0
+Always frequent class,20,218,1,0
+Always frequent class,20,534,0,0
+Always frequent class,20,321,1,0
+Always frequent class,20,73,1,0
+Always frequent class,20,448,0,0
+Always frequent class,20,502,0,0
+Always frequent class,20,188,0,0
+Always frequent class,20,216,0,0
+Always frequent class,20,556,0,0
+Always frequent class,20,410,0,0
+Always frequent class,20,208,0,0
+Always frequent class,20,347,0,0
+Always frequent class,20,447,0,0
+Always frequent class,20,429,0,0
+Always frequent class,20,385,1,0
+Always frequent class,20,74,0,0
+Always frequent class,20,418,0,0
+Always frequent class,20,190,1,0
+Always frequent class,20,308,0,0

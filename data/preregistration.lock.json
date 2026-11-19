@@ -1,0 +1,17 @@
+{
+  "created_at": "2026-11-18T23:01:36.614810+00:00",
+  "git_commit": "731d25ddc60ecd0d8e9df29de541a8d8410b108e",
+  "hashes": {
+    "tasks.jsonl": "91a96fab56270e670dfbbd99daa8ba035ec87e6f61a63c2bba4491b8bf078f2a",
+    "pilots.jsonl": "fdf040258e1f6601d388e2553ae4a794991bbbb491450184991d956a23ba8b0b",
+    "models.json": "5981375459844749d86afe068a8a16d754db09a4056f6970e44c5041592fe1d2",
+    "preregistration.md": "85f242e6d63c474c4e7519c706938f7a991e27f37b95c46efc7429f9f0ff968e",
+    "rubrics.md": "6310529f7074578cdf2871c87ef35d140e21a8f1aec4381aeb3adb1f0f5d426c",
+    "bank.py": "23944acad58315dc16509332e90418788bf17bc8454067aecae56074b098751f",
+    "reference_d.py": "dbc9708e977334b7fce5df6f5870436ab8ef8fb8a8317f00ab7f13d7019cc181",
+    "lab.py": "68f0522fdff9e40a30baba2625a22505e45b8d1923b149c12b4f360a7eecb2dd",
+    "local/Qwen3-4B-nothink.Modelfile": "76eb5b52f98b6549e64c60c264bc3509809e1d20c9cebbfc76f9b892b1ea4e07",
+    "local/Qwen3-4B-nothink.template.txt": "6c5bfa3dc408f5fed7f3efc27498a8837cbed3ab983be7fcc6b9b65dd0a78b0b"
+  },
+  "confirmed": true
+}

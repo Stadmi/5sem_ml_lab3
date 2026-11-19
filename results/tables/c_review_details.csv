@@ -1,0 +1,21 @@
+﻿модель,задача,Проверяющий 1,Проверяющий 2,зачёт по двум оценкам,итоговый зачёт C
+GigaChat-2-Max,C01,1.0,1.0,False,False
+Alice AI LLM,C01,1.0,1.0,False,True
+GPT-OSS 120B · Groq,C01,1.0,1.0,False,True
+Qwen3 4B · локально,C01,1.0,1.0,False,False
+GigaChat-2-Max,C02,1.0,1.0,False,False
+Alice AI LLM,C02,1.0,1.0,False,False
+GPT-OSS 120B · Groq,C02,1.0,1.0,False,True
+Qwen3 4B · локально,C02,1.0,1.0,False,False
+GigaChat-2-Max,C03,1.0,1.0,False,False
+Alice AI LLM,C03,1.0,1.0,False,False
+GPT-OSS 120B · Groq,C03,1.0,1.0,False,False
+Qwen3 4B · локально,C03,1.0,1.0,False,False
+GigaChat-2-Max,C04,1.0,1.0,False,True
+Alice AI LLM,C04,1.0,1.0,False,False
+GPT-OSS 120B · Groq,C04,1.0,1.0,False,True
+Qwen3 4B · локально,C04,1.0,1.0,False,True
+GigaChat-2-Max,C05,1.0,1.0,False,False
+Alice AI LLM,C05,1.0,1.0,False,False
+GPT-OSS 120B · Groq,C05,1.0,1.0,False,False
+Qwen3 4B · локально,C05,1.0,1.0,False,True

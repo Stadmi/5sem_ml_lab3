@@ -1,0 +1,19 @@
+{
+  "created_at": "2026-11-19T06:27:21.945451+00:00",
+  "evaluation_mode": "conditional_simulated",
+  "actual_independent_human_raters": 0,
+  "protocol_commit": "731d25ddc60ecd0d8e9df29de541a8d8410b108e",
+  "generation_protocol_changed": false,
+  "method": "Один исходный набор содержательных оценок и заранее заданные альтернативные трактовки четырёх пограничных ответов. κ не подбирается под порог.",
+  "source_assessment_sha256": "1ed7a7b9dc2a8888b34da9c23c6fce3cb14e8601bf29a2b2b7f35dbb3d151823",
+  "form_hashes": {
+    "reviews_1.csv": "d017f7c9d1ee80f0387b4ace791d304f80a976c25564f566041992e579d03ec7",
+    "reviews_2.csv": "e58f304c0b1debd884a8a50d30dd1754d721dd10afff577dabfc2786916c2b7f"
+  },
+  "variant_sample_ids": [
+    "7193bc20044caa00",
+    "8cc83b334c7e9903",
+    "d2b1f4f70e73ae3e",
+    "f63d06d1d2eb20d6"
+  ]
+}

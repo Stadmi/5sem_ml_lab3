@@ -1,0 +1,7 @@
+﻿model_a,model_b,n,both,only_a,only_b,neither,p,p_holm
+GPT-OSS 120B · Groq,GigaChat-2-Max,36,25,7,2,2,0.1796875,0.8984375
+GPT-OSS 120B · Groq,Qwen3 4B · локально,36,24,8,3,1,0.2265625,0.90625
+GPT-OSS 120B · Groq,Alice AI LLM,36,21,11,2,2,0.0224609375,0.134765625
+GigaChat-2-Max,Qwen3 4B · локально,36,21,6,6,3,1.0,1.0
+GigaChat-2-Max,Alice AI LLM,36,18,9,5,4,0.4239501953125,0.90625
+Qwen3 4B · локально,Alice AI LLM,36,21,6,2,7,0.2890625,0.90625

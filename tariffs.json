@@ -1,0 +1,41 @@
+{
+  "basis": "Номинальная стоимость по опубликованному тарифу, без скидок за кэширование. Не фактическое списание: используются бесплатные квоты/грант.",
+  "currency": "RUB",
+  "models": {
+    "gigachat": {
+      "input_rub_per_million": 650.0,
+      "output_rub_per_million": 650.0,
+      "source": "https://developers.sber.ru/docs/ru/gigachat/tariffs/individual-tariffs",
+      "accessed_at": "2026-11-19",
+      "derivation": "Пакет Max: 1950 рублей / 3000000 токенов. Тариф для действующих клиентов, включая НДС. Одинаковая номинальная ставка для входа и выхода."
+    },
+    "yandex": {
+      "input_rub_per_million": 500.0,
+      "output_rub_per_million": 1200.0,
+      "source": "https://aistudio.yandex.ru/ru/docs/ai-studio/pricing",
+      "accessed_at": "2026-11-19",
+      "model": "Alice AI LLM",
+      "mode": "synchronous",
+      "vat_included": true,
+      "derivation": "Синхронный режим: 0,50 руб. за 1000 входящих токенов и 1,20 руб. за 1000 исходящих. Пересчёт на 1 млн токенов: 500 и 1200 руб. Модель aliceai-llm/latest, не Flash. Номинальная оценка, не фактическое списание."
+    },
+    "foreign": {
+      "input_rub_per_million": 12.334215,
+      "output_rub_per_million": 49.33686,
+      "source": "https://console.groq.com/docs/model/openai/gpt-oss-120b",
+      "accessed_at": "2026-11-19",
+      "input_usd_per_million": 0.15,
+      "output_usd_per_million": 0.6,
+      "usd_rub": 82.2281,
+      "exchange_rate_date": "2026-11-19",
+      "exchange_rate_source": "https://www.cbr.ru/scripts/XML_daily.asp?date_req=19/11/2026",
+      "derivation": "Ставка USD × курс ЦБ РФ. Без дополнительных налогов, комиссий и скидки cached input."
+    },
+    "local": {
+      "input_rub_per_million": null,
+      "output_rub_per_million": null,
+      "source": "Локально: измеряются время и память; денежная стоимость не приравнивается к нулю.",
+      "accessed_at": null
+    }
+  }
+}
