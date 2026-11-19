@@ -1,0 +1,56 @@
+{
+  "system_prompt": "/no_think\nРеши задачу по машинному обучению самостоятельно. Не используй внешние инструменты. Дай краткое проверяемое обоснование не более 100 слов, затем итог. Не повторяй условие и инструкции. Не дополняй условие неуказанными данными. Если данных недостаточно, так и ответь. Для задания на код не пиши обоснование: выдай исполняемый код внутри ровно одного Markdown-блока с открывающей строкой ```python и закрывающей строкой ```. После обоснования или закрывающего маркера блока кода заверши ответ ровно двумя строками:\nОТВЕТ: <JSON-число, JSON-массив чисел, true/false, метка, либо строка>\nУВЕРЕННОСТЬ: <целое число от 0 до 100>",
+  "max_output_tokens": 4096,
+  "models": [
+    {
+      "name": "gigachat",
+      "role": "russian_1",
+      "transport": "gigachat",
+      "model": "GigaChat-2-Max",
+      "base_url": "https://gigachat.devices.sberbank.ru/api/v1",
+      "temperature": 0.0,
+      "enabled": true,
+      "pricing": {"input_rub_per_million": null, "output_rub_per_million": null, "source": "", "accessed_at": null}
+    },
+    {
+      "name": "yandex",
+      "role": "russian_2",
+      "transport": "yandex",
+      "model": "gpt://{folder_id}/aliceai-llm/latest",
+      "model_version": "latest",
+      "base_url": "https://llm.api.cloud.yandex.net/foundationModels/v1",
+      "temperature": 0.0,
+      "enabled": true,
+      "pricing": {"input_rub_per_million": null, "output_rub_per_million": null, "source": "", "accessed_at": null}
+    },
+    {
+      "name": "foreign",
+      "role": "foreign_large",
+      "transport": "openai_compatible",
+      "model": "openai/gpt-oss-120b",
+      "base_url": "https://api.groq.com/openai/v1",
+      "key_env": "GROQ_API_KEY",
+      "temperature": 0.0,
+      "enabled": true,
+      "pricing": {"input_rub_per_million": null, "output_rub_per_million": null, "source": "", "accessed_at": null},
+      "note": "Резервный бесплатный API-вариант. По документации OpenCode от 2026-11-18 бесплатные chat-модели требуют OpenCode и не предоставляются другим клиентам напрямую. Агентные ответы вместо чистых запросов не подставлять."
+    },
+    {
+      "name": "local",
+      "role": "local_small",
+      "transport": "ollama_generate",
+      "model": "qwen3:4b",
+      "base_model": "qwen3:4b",
+      "expected_digest": "359d7dd4bcdab3d86b87d73ac27966f4dbb9f5efdfcc75d34a8764a09474fae7",
+      "base_weights_sha256": "3e4cb14174460404e7a233e531675303b2fbf7749c02f91864fe311ab6344e4f",
+      "template_file": "local/Qwen3-4B-nothink.template.txt",
+      "note": "Нативный Qwen3-4B Q4_K_M через /api/generate raw=true; официальный одноходовый non-thinking шаблон. /api/chat и alias в пилоте не обеспечили отключение рассуждений. Тексты system/user одинаковы у всех моделей.",
+      "base_url": "http://127.0.0.1:11434",
+      "temperature": 0.0,
+      "think": false,
+      "num_ctx": 16384,
+      "enabled": true,
+      "pricing": {"input_rub_per_million": null, "output_rub_per_million": null, "source": "Локальная модель: денежная стоимость не приравнивается к нулю; измеряются время и память.", "accessed_at": null}
+    }
+  ]
+}

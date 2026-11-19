@@ -1,0 +1,14 @@
+# Preserve the exact bytes recorded in data/preregistration.lock.json.
+/tasks.jsonl -text
+/pilots.jsonl -text
+/models.json -text
+/preregistration.md -text
+/rubrics.md -text
+/bank.py -text
+/reference_d.py -text
+/lab.py -text
+/local/Qwen3-4B-nothink.Modelfile -text
+/local/Qwen3-4B-nothink.template.txt -text
+# These forms are verified by hash before the notebook reads them.
+/data/reviews_1.csv -text
+/data/reviews_2.csv -text
